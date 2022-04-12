@@ -14,3 +14,6 @@ The purpose is if we feed any new data to this classifier, it would be able to p
 ```
 {'max_depth': 20, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 15}
  ```
+
+# Visualize the Decision Tree
+![Retail Dashboard](https://github.com/Abdelrhman2022/Predicting-the-Iris-by-Decision-Tree/blob/main/Tree.PNG)
